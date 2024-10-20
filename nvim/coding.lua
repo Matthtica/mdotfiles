@@ -229,7 +229,7 @@ return {
   --    require("parrot").setup {
   --      providers = {
   --        groq = {
-  --          api_key = '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',
+  --          api_key = '',
   --          endpoint = 'https://api.groq.com/openai/v1/chat/completions'
   --        }
   --      }
